@@ -1,28 +1,28 @@
-# The Basics
+# Les bases
 
-Most importantly you should **join a squad**. Some servers even enforce it up by kicking solo players after a warning period. The game is by far the most fun to play in a functioning squad. If you need any help, just **ask players in your squad** what to do. If possible use Mumble. It is commonly used in PR. Playing PR:BF2 without a microphone will not give you the full experience so it’s a wise investment. If no one answers, try joining another squad or use general chat. There are many helping community members around who welcome new players and give them a hand. We expect you to have some basic understanding of BF2 when it comes to navigating the menu’s in-game such as scoreboard, map and kit selection. You can always start up BF2 and do the tutorial there to get acquainted with its interface. This manual will focus on the differences with BF2.
+Vous devrez OBLIGATOIREMENT **rejoindre une SQUAD**. Certains serveurs l'appliquent même en expulsant les joueurs solo après une période d'avertissement. Le jeu est de loin le plus amusant à jouer dans une équipe qui fonctionne. Si vous avez besoin d'aide, il vous suffit de **demander aux joueurs de votre équipe** ce qu'il faut faire. Si possible, utilisez Mumble. Il est couramment utilisé dans les relations publiques. Jouer PR:BF2 sans microphone ne vous donnera pas une expérience complète, c'est donc un investissement judicieux. Si personne ne répond, essayez de rejoindre une autre SQUAD ou utilisez le chat général. Il y a beaucoup de membres de la communauté qui aident les nouveaux joueurs et leur donnent un coup de main. Nous attendons de vous que vous ayez une compréhension de base de BF2 lorsqu'il s'agit de naviguer dans le menu du jeu, comme le tableau de bord, la carte et la sélection de kits. Vous pouvez toujours démarrer BF2 et y faire le tutoriel pour vous familiariser avec son interface. Ce manuel se concentrera sur les différences avec BF2.
 
 ## _Kit selection & spawning_ {#kit-selection-and-spawning}
 
-* When you begin playing, it is recommended that you only spawn as a rifleman with a sight of your choice. This way you can better learn the fundamental basics of gameplay.
-* After learning infantry basics you can ask your SL to assign you a specialized kit when you feel up to the task. If you want to try out new equipment or a vehicle, you can do so easily in the co-op mode without inconveniencing your squad members or risking your team's assets.
-* Kits that are specialized and more difficult to operate are generally limited and can only be obtained if certain conditions are met within a squad. These reserved kits are of limited supply to the team and you should always ask before requesting one.
-* Kits can be requested from the main spawn menu \(like BF2\), a supply crate [\(see Logistics\)](the_basics.md#logistics)
+* Lorsque vous commencez à jouer, il est recommandé de n'apparaître qu'en tant que fusilier avec un viseur de votre choix. De cette façon, vous pourrez mieux apprendre les bases fondamentales du gameplay.
+* Après avoir appris les bases de l'infanterie, vous pouvez demander à votre Squad Leader de vous attribuer un kit spécialisé lorsque vous vous sentez à la hauteur de la tâche. Si vous souhaitez essayer de nouveaux équipements ou un véhicule, vous pouvez le faire facilement en mode coopératif sans gêner les membres de votre équipe ni risquer les actifs de votre équipe.
+* Les kits spécialisés et plus difficiles à utiliser sont généralement limités et ne peuvent être obtenus que si certaines conditions sont remplies au sein d'une escouade. Ces kits réservés sont en quantité limitée pour l'équipe et vous devez toujours demander avant d'en demander un.
+* Les kits peuvent être demandés à partir du menu principal de spawn \(like BF2\), une caisse de ravitaillement [\(see Logistics\)](the_basics.md#logistics)
 
-or the rear of an APC / IFV. To have the ability to request a kit from a supply crate or vehicle, you must be a part of a squad.
+A l'arriere d'un APC / IFV. Pour avoir la possibilité de demander un kit à partir d'une caisse de ravitaillement ou d'un véhicule, vous devez faire partie d'une squad.
 
-In PR:BF2 you cannot spawn at every control point that your team controls. Spawn points available in PR:BF2 are:
+Dans PR:BF2, vous ne pouvez pas apparaître à chaque point de contrôle contrôlé par votre équipe. Les points d'apparition disponibles dans PR:BF2 sont :
 
-* **Your squad's rally point \(RP\)** is a green circle surrounding a spawn point with your squad’s number adjacent to it. Depending on the location of your squad’s RP in relation to a team’s FOB will determine its longevity. Note: If you spawn on another squad’s rally point, you will automatically spawn at your own rally point, or any nearby FOB. If none available you will be moved to the main base of your team. If overrun by the enemy, your squad’s RP will disappear. RPs are only available to conventional forces. [\(see Deployable Structures\)](the_squad_leader.md#deployable-structures)
+* **Your squad's rally point \(RP\)** est un cercle vert entourant un point d'apparition avec le numéro de votre équipe adjacent à celui-ci. Selon l'emplacement du RP de votre équipe par rapport au FOB d'une équipe déterminera sa longévité. Remarque : Si tentez d'apparaitre sur le point de ralliement d'une autre escouade, vous apparaitrai automatiquement sur votre propre point de ralliement ou sur n'importe quelle FOB à proximité. Si aucun n'est disponible, vous serez déplacé vers la base principale de votre équipe. S'il est envahi par l'ennemi, le RP de votre équipe disparaîtra. Les RP ne sont disponibles que pour les forces conventionnelles. [\(see Deployable Structures\)](the_squad_leader.md#deployable-structures)
 
 {% figure "../assets/rally.png" %}
   A rallypoint.
 {% endfigure %}
 
-* **Map-specific team rally points**. These usually expire 5 minutes after the round starts and can be used by the whole team. These also only allow maximum 12 people to spawn on it until it disappears.
-* **The commander rally point**. This RP can only be placed by the commander, provided multiple squad’s leaders are in the vicinity of the CO. On the map this will be a rally point with a “C” next to it.
-* **Deployable forward operating base \(FOB\) or hideouts** can be used by the entire team to spawn at, but must be constructed before becoming operational. On the map it will show as a spawn point with a green triangle. It comes online 90 seconds after being build. It becomes unspawnable for 30 seconds if 1 enemy is within 10m, 2 enemies within 50m, 4 enemies within 100m or 8 enemies within 150m. [\(see Deployable Structures\)](the_squad_leader.md#deployable-structures)
-* In the insurgency game mode, the defending insurgent team may spawn at the **weapons caches** that hasn't been revealed to the enemy, this is called the unknown cache. This spawn is also disabled if enemies becomes to close similar to the FOB.
+* **Map-specific team rally points**. Ceux-ci expirent généralement 5 minutes après le début du tour et peuvent être utilisés par toute l'équipe. Ceux-ci permettent également à un maximum de 12 personnes d'apparaître dessus jusqu'à ce qu'il disparaisse.
+* **The commander rally point**. Ce RP ne peut être placé que par le commandant, à condition que plusieurs chefs d'escouade se trouvent à proximité du commandant. Sur la carte, ce sera un point de ralliement avec un "C" à côté.
+* **Deployable forward operating base \(FOB\) or hideouts** peuvent être utilisé par toute l'équipe pour apparaître, mais doit être construit avant de devenir opérationnel. Sur la carte, il apparaîtra comme un point d'apparition avec un triangle vert. Il est en ligne 90 secondes après avoir été construit. Il devient impossible à générer pendant 30 secondes si 1 ennemi se trouve à moins de 10 m, 2 ennemis à moins de 50 m, 4 ennemis à moins de 100 m ou 8 ennemis à moins de 150 m. [\(see Deployable Structures\)](the_squad_leader.md#deployable-structures)
+* Dans le mode de jeu Insurrection, l'équipe d'insurgés en défense peut apparaître dans les **weapons caches** qui n'ont pas été révélées à l'ennemi, c'est ce qu'on appelle la cache inconnue. Ce spawn est également désactivé si les ennemis sont trop porches (focntionnement similaires au FOB ci-desus).
 
 {% figure "../assets/fob.png", "../assets/hideout.png", "../assets/cache-weapon.png" %}
 FOB, Hideout & weapon cache.
@@ -30,31 +30,31 @@ FOB, Hideout & weapon cache.
 
 
 
-* **Your team's headquarters, main base or permanent FOB.** This is the only spawn point that is always available.
+* **Your team's headquarters, main base or permanent FOB.** C'est le seul point d'apparition qui est toujours disponible.
 
 {% figure "../assets/acv.png" %}
-Armored Command Vehicle \(ACV\) found in mainbases only.
+Véhicule blindé de commandement \(ACV\) trouvé dans les bases principales uniquement.
 {% endfigure %}
 
-* Some maps feature **parachute spawns** where a airborne assault is simulated. These will be visualized by moving spawn markers on the minimap. Choose one and you will spawn with an automaticly deployed parachute.
+* Some maps feature **parachute spawns** où un assaut aéroporté est simulé. Ceux-ci seront visualisés en déplaçant les marqueurs d'apparition sur la mini-carte. Choisissez-en un et vous frayerez avec un parachute déployé automatiquement.
 
 ## _In-game interface \(HUD\)_ {#hud}
 
-* In the PR:BF2 in-game HUD, players are notified by **player-specific messages** that can only be seen by that player. They are used to give players feedback about different in-game events for example:
-  * The reason why the player is not issued the kit being requested.
-  * The reason why the deployable asset that the player requested could not be built.
-  * That the player must exit the vehicle or the current seat to avoid punishment.
-* PR also uses **HQ Notifications** which is displayed large orange type at the top left of the screen. These notifications give you updates on the current objectives, mission progress and other essential messages.
-* Firing **cross-hairs** have been removed from the screen. If you want to shoot precisely, you need press the alternate firing key to aim down your weapon's sights, or use the BUIS for close quarter fighting \(see the weapons chapter\).
-* **Name tags have been removed** for all players. It is vital to ID your targets before engaging to avoid friendly fire. Learning the distinction of different camo, flags and the profile shape of the factions infantry helps you ID an enemy faster. As an example, to locate a Squad Leader, look for a radio antenna extending upwards from his backpack.
-* **No health status bar** indicating your vital status. When you lose more than 25% of your health, you will start to see a red bloody screen which pulsates as you hear wounded sounds of pain. You will continue to lose health as you bleed out until you receive medical attention, if you do not you will die. If however your health drops very low, your screen will lose all color, your vision will become very blurred and you will be unable to move at speed. You will have approximately a few minutes to reach medical attention or you will die.
-* **The ammo counter** only displays the weapon's fire mode and the number of remaining magazines.
-* To estimate the **amount of rounds left** in your magazine you can open the communication rose\(**Q**\) and see a visual indicator of the amount of ammo left. ![](../assets/ammo.png)
-* **The medic** can see how far he is done healing a soldier with the HUD in the bottom right corner. Infantry can watch the same way how long until deployable is finished shoveling.
-* There are **no kill messages** \(friendly fire is an exception\). Even the scoreboard will not show who is alive or dead on the enemy team. If you need to know whether someone is dead, you should look for his body.
-* Only vehicles use a permanent **mini-map** on the HUD. The full map overlay is available for everybody.
-* **The current map & layer** can be viewed on the top of the screen when opening the map.
-* Using the little arrow will show you the **current map asset info overlay** of all vehicles that are on the map including the spawn times of friendly vehicles.
+* Dans le HUD du jeu PR:BF2, les joueurs sont avertis par **player-specific messages** qui ne peut être vu que par ce joueur. Ils sont utilisés pour donner aux joueurs des commentaires sur différents événements en jeu, par exemple :
+* La raison pour laquelle le joueur ne reçoit pas le kit demandé.
+* La raison pour laquelle l'actif déployable demandé par le joueur n'a pas pu être construit.
+* Que le joueur doit quitter le véhicule ou le siège actuel pour éviter la punition.
+* PR utilise aussi **HQ Notifications** qui s'affiche en gros caractères orange en haut à gauche de l'écran. Ces notifications vous donnent des mises à jour sur les objectifs actuels, la progression de la mission et d'autres messages essentiels.
+* Firing **cross-hairs** ont été supprimés de l'écran. Si vous voulez tirer avec précision, vous devez appuyer sur la touche de tir alternatif pour activer le viseur de votre arme, ou utiliser l'ironsight (viseur sans lunettes) pour les combats rapprochés \(see the weapons chapter\).
+* **Name tags have been removed** pour tous les joueurs. Il est essentiel d'identifier vos cibles avant de vous engager pour éviter les tirs amis. Apprendre la distinction des différents camouflages, drapeaux et la forme du profil de l'infanterie des factions vous aide à identifier un ennemi plus rapidement. Par exemple, pour localiser un chef d'escouade, recherchez une antenne radio s'étendant vers le haut depuis son sac à dos.
+* **No health status bar** indique votre statut vital. Lorsque vous perdez plus de 25% de votre santé, vous commencerez à voir un écran rouge sanglant qui vibre lorsque vous entendez des sons de douleur. Vous continuerez à perdre de la santé à mesure que vous saignerez jusqu'à ce que vous receviez des soins médicaux, sinon vous mourrez. Si toutefois votre état de santé chute très bas, votre écran perdra toutes ses couleurs, votre vision deviendra très floue et vous ne pourrez pas vous déplacer rapidement. Vous aurez environ quelques minutes pour obtenir des soins médicaux ou vous mourrez.
+* **The ammo counter** affiche uniquement le mode de tir de l'arme et le nombre de chargeurs restants.
+* Pour estimer **amount of rounds left** dans votre magazine, vous pouvez ouvrir la rose de communication\(**Q**\) et voir un indicateur visuel de la quantité de munitions restantes. ![](../assets/ammo.png)
+* **The medic** Vous verrez jusqu'où il a réussi à soigner un soldat avec le HUD dans le coin inférieur droit. L'infanterie peut regarder de la même manière l'evolution de la construction d'un element deployable.
+* There are **no kill messages** \(friendly fire is an exception\). Même le tableau de bord ne montrera pas qui est vivant ou mort dans l'équipe ennemie. Si vous avez besoin de savoir si quelqu'un est mort, vous devez rechercher son corps.
+* Seuls les véhicules affiche en permanence une **mini-map** dans le HUD. La superposition complète de la carte est disponible pour tout le monde.
+* **The current map & layer** peuvent être visualisés en haut de l'écran lors de l'ouverture de la carte.
+* L'utilisation de la petite flèche vous montrera la **current map asset info overlay** de tous les véhicules qui sont sur la carte, y compris les heures d'apparition des véhicules amis.
 
 {% figure "../assets/assets.png" %}
 Current map asset info overlay.
